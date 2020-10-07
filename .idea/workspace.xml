@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37b84922-f7b3-4cb0-948b-bae221ea54eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Future Hu &lt;i2754067952@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="data_mining" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="comp-4710-project/invalid/Python facet" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/comp-4710-project.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VBpQcLX3x7w3vphIabO3X8QNKw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Codes" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Future Hu\Desktop\0\comp-4710-project\Codes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.classification_model_CC_undersampling">
+    <configuration name="aprioriDataMining" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comp-4710-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataMining/aprioriDataMining.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification_model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comp-4710-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Future Hu\Desktop\0\comp-4710-project\Codes\classification_model_original.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification_model_CC_undersampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comp-4710-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codes/classification_model_CC_undersampling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification_model_class_weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comp-4710-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codes/classification_model_class_weight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classification_model_random_undersampling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="comp-4710-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Codes/classification_model_random_undersampling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.aprioriDataMining" />
+      <item itemvalue="Python.classification_model" />
+      <item itemvalue="Python.classification_model_CC_undersampling" />
+      <item itemvalue="Python.classification_model_class_weight" />
+      <item itemvalue="Python.classification_model_random_undersampling" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classification_model_CC_undersampling" />
+        <item itemvalue="Python.classification_model_random_undersampling" />
+        <item itemvalue="Python.classification_model_class_weight" />
+        <item itemvalue="Python.classification_model" />
+        <item itemvalue="Python.aprioriDataMining" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37b84922-f7b3-4cb0-948b-bae221ea54eb" name="Default Changelist" comment="" />
+      <created>1573169549435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573169549435</updated>
+      <workItem from="1573169559089" duration="197000" />
+      <workItem from="1576736328915" duration="34000" />
+      <workItem from="1576736379205" duration="248000" />
+      <workItem from="1576775055977" duration="1108000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1576780853754</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576780853754</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1576780945673</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576780945673</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1576781014983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576781014983</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1576781834503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576781834503</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update">
+      <created>1576781850886</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576781850886</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update comment">
+      <created>1576781926034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576781926034</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <MESSAGE value="update comment" />
+    <option name="LAST_COMMIT_MESSAGE" value="update comment" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576779830834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="164" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576779830834" />
+    <state x="614" y="113" key="CommitChangelistDialog2" timestamp="1576783256931">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="614" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1576783256931" />
+    <state x="690" y="214" key="FileChooserDialogImpl" timestamp="1576769848191">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="214" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1576769848191" />
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom" timestamp="1576780567492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1576780567492" />
+    <state width="1899" height="274" key="GridCell.Tab.0.center" timestamp="1576780567492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1576780567492" />
+    <state width="1899" height="274" key="GridCell.Tab.0.left" timestamp="1576780567492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1576780567492" />
+    <state width="1899" height="274" key="GridCell.Tab.0.right" timestamp="1576780567492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="274" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1576780567492" />
+    <state x="601" y="162" key="MultipleFileMergeDialog" timestamp="1576783268361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="601" y="162" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576737251927" />
+    <state x="601" y="162" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576783268361" />
+    <state x="452" y="184" key="Vcs.Push.Dialog.v2" timestamp="1576781958335">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="184" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576737268559" />
+    <state x="452" y="184" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576781958335" />
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1576778083253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576736383738" />
+    <state x="577" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576778083253" />
+    <state x="719" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576783259613">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576736612709" />
+    <state x="719" y="413" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1576783259613" />
+    <state x="565" y="162" key="git4idea.branch.GitSmartOperationDialog" timestamp="1576768936446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="162" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576736569367" />
+    <state x="565" y="162" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1576768936446" />
+    <state x="540" y="262" key="git4idea.merge.GitMergeDialog" timestamp="1576737237960">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="262" key="git4idea.merge.GitMergeDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1576737237960" />
+  </component>
+</project>

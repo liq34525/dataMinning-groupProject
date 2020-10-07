@@ -1,0 +1,891 @@
+C:\Users\sheph\Anaconda3\python.exe "C:/Users/sheph/OneDrive/Doc/University/CS & PH/COMP 4710/project/comp-4710-project/dataMining/aprioriDataMining.py"
+Console output is saving to: C:\Users\sheph\AppData\Local\JetBrains\Toolbox\apps\PyCharm-P\ch-0\193.5233.109\jbr\bin\ap_output.txt
+process C1
+generate C1 rules
+generate 1-item set: [####################################################################################################]: 100.0	 %	from process 17984
+done scanning
+generate 2-item set: [####################################################################################################]: 100.0	 %	from process 22064
+done scanning
+generate 3-item set: [####################################################################################################]: 100.0	 %	from process 1292
+done scanning
+generate 4-item set: [####################################################################################################]: 100.0	 %	from process 4048
+done scanning
+generate 5-item set: [####################################################################################################]: 100.0	 %	from process 1700
+done scanning
+generate None-item set: [####################################################################################################]: 100.0	 %	from process 19076
+done scanning
+generate L: [####################################################################################################]: 100.0	 %
+==================================================
+frequent 1-itemsets		support
+==================================================
+frozenset({'12-16'}) 0.20969258383429729
+frozenset({'N/B'}) 0.0721957890538192
+frozenset({'Sunday'}) 0.10487478275734352
+frozenset({'yesterday:2'}) 0.25754294994159377
+frozenset({'5~15'}) 0.5570386620701444
+frozenset({'Utilized Off Route'}) 0.03810649876064845
+frozenset({509}) 0.03524316932106328
+frozenset({1.0}) 0.18329582039374342
+frozenset({502}) 0.021296903045670817
+frozenset({'Wednesday'}) 0.1560728225875381
+frozenset({'yesterday:6'}) 0.0952163879312801
+frozenset({'16-20'}) 0.1784238867204194
+frozenset({512}) 0.07494515513262485
+frozenset({'Mechanical'}) 0.4812530271517707
+frozenset({'W/B'}) 0.3956807886264566
+frozenset({'0~5'}) 0.24567651500042736
+frozenset({'General Delay'}) 0.0747029829909684
+frozenset({'Monday'}) 0.14762528846975698
+frozenset({'Emergency Services'}) 0.033092110886350036
+frozenset({'Friday'}) 0.15763981879825636
+frozenset({'E/B'}) 0.388971195760563
+frozenset({8.0}) 0.08263768198524174
+frozenset({'8-12'}) 0.19091712014587311
+frozenset({'yesterday:10'}) 0.03136841505455996
+frozenset({'Thursday'}) 0.1609305108407647
+frozenset({'4-8'}) 0.25815550300578366
+frozenset({'yesterday:3'}) 0.19171486367132967
+frozenset({505}) 0.11050172369583179
+frozenset({'S/B'}) 0.06926123251374683
+frozenset({11.0}) 0.04423202940254708
+frozenset({'Saturday'}) 0.11661300891763299
+frozenset({'yesterday:8'}) 0.15241174962249637
+frozenset({506}) 0.13550243596683667
+frozenset({'yesterday:None'}) 0.03363343685005271
+frozenset({'yesterday:11'}) 0.09102823442263312
+frozenset({'yesterday:12'}) 0.049873215761132794
+frozenset({'B/W'}) 0.06787942676429527
+frozenset({12.0}) 0.024402404626912448
+frozenset({2.0}) 0.33962506054303543
+frozenset({'Late Leaving Garage'}) 0.10010256702470156
+frozenset({'20-24'}) 0.1123108920482065
+frozenset({'Investigation'}) 0.13933445397304767
+frozenset({504}) 0.19157240947035528
+frozenset({'0-4'}) 0.0505000142454201
+frozenset({'Tuesday'}) 0.15624376762870737
+frozenset({'>30'}) 0.0764694150830508
+frozenset({3.0}) 0.1354739451266418
+frozenset({511}) 0.05310692612325137
+frozenset({6.0}) 0.04683894128037836
+frozenset({'Held By'}) 0.11555884783042251
+frozenset({501}) 0.246573976466566
+frozenset({'15~30'}) 0.11981822843955668
+frozenset({'yesterday:1'}) 0.056112709763810935
+frozenset({0.0}) 0.1021823983589276
+frozenset({510}) 0.06514430610558705
+==================================================
+frequent 2-itemsets		support
+==================================================
+frozenset({'Wednesday', 'Investigation'}) 0.020898031282942535
+frozenset({'12-16', 'yesterday:3'}) 0.040029630473802674
+frozenset({'12-16', 3.0}) 0.025385338613635716
+frozenset({'W/B', 'Late Leaving Garage'}) 0.04859112795236332
+frozenset({1.0, 'Thursday'}) 0.028405367674292716
+frozenset({3.0, '4-8'}) 0.04114077324140289
+frozenset({'16-20', 'Mechanical'}) 0.08728168893700675
+frozenset({'W/B', '16-20'}) 0.06987378557793669
+frozenset({'8-12', 'Sunday'}) 0.02554203823470754
+frozenset({501, '0~5'}) 0.027109034445425794
+frozenset({'yesterday:8', 506}) 0.020442177839824497
+frozenset({'yesterday:3', 'Saturday'}) 0.029046411578677454
+frozenset({504, 'yesterday:2'}) 0.04971651614006097
+frozenset({'Tuesday', '5~15'}) 0.0823242827430981
+frozenset({'>30', 'yesterday:2'}) 0.02148209350693752
+frozenset({'Monday', '5~15'}) 0.08034416934955411
+frozenset({2.0, 'Saturday'}) 0.03319182882703211
+frozenset({'S/B', '0~5'}) 0.022051910310835067
+frozenset({'Late Leaving Garage', '5~15'}) 0.0526368272600359
+frozenset({'Thursday', 'yesterday:3'}) 0.02588392831704607
+frozenset({'12-16', 'General Delay'}) 0.02028547821875267
+frozenset({'Mechanical', 'E/B'}) 0.20352431693210632
+frozenset({504, '20-24'}) 0.021339639305963134
+frozenset({'Thursday', 3.0}) 0.02360466110145588
+frozenset({'12-16', 501}) 0.05248012763896407
+frozenset({506, '5~15'}) 0.07907632696088207
+frozenset({1.0, 'Saturday'}) 0.02126841220547594
+frozenset({'15~30', 1.0}) 0.02287814467648651
+frozenset({'Late Leaving Garage', 'yesterday:2'}) 0.022308327872588962
+frozenset({'Monday', 2.0}) 0.052736545200717966
+frozenset({'N/B', '5~15'}) 0.035271660161258156
+frozenset({'8-12', '0~5'}) 0.044602410325080485
+frozenset({'Mechanical', 3.0}) 0.0646457164021767
+frozenset({'Wednesday', 'yesterday:8'}) 0.021624547707911907
+frozenset({'yesterday:3', '0~5'}) 0.04557109889170632
+frozenset({'W/B', '4-8'}) 0.11070115957719594
+frozenset({506, 'Mechanical'}) 0.06465996182227414
+frozenset({'Mechanical', '4-8'}) 0.12527422433687568
+frozenset({'W/B', 506}) 0.0536340066668566
+frozenset({'E/B', 'Saturday'}) 0.043961366420695744
+frozenset({'Thursday', 'Investigation'}) 0.021225675945183622
+frozenset({'E/B', '5~15'}) 0.2300350437334397
+frozenset({'W/B', '12-16'}) 0.0833214621499188
+frozenset({'16-20', 'yesterday:8'}) 0.02673865352289239
+frozenset({1.0, 'Wednesday'}) 0.027237243226302745
+frozenset({'yesterday:8', 'Investigation'}) 0.021111712584404113
+frozenset({'Monday', 'W/B'}) 0.06030086327245791
+frozenset({'W/B', 'Sunday'}) 0.03921764152824867
+frozenset({2.0, 'E/B'}) 0.13014615801019971
+frozenset({'Tuesday', 'Investigation'}) 0.021011994643722044
+frozenset({512, 2.0}) 0.02609760961850765
+frozenset({1.0, 'Mechanical'}) 0.08839283170460698
+frozenset({'15~30', 'Mechanical'}) 0.03317758340693467
+frozenset({504, 'Friday'}) 0.03178153223738568
+frozenset({'Mechanical', 'Saturday'}) 0.056312145645175074
+frozenset({'Investigation', '20-24'}) 0.020214251118265476
+frozenset({'16-20', '0~5'}) 0.0423231431094903
+frozenset({504, 'yesterday:3'}) 0.0358414769651557
+frozenset({'Wednesday', '8-12'}) 0.026510726801333373
+frozenset({'yesterday:8', '0~5'}) 0.03777885409840736
+frozenset({1.0, 'yesterday:2'}) 0.08305079916806747
+frozenset({'Thursday', 'W/B'}) 0.0647169435026639
+frozenset({'Wednesday', '0~5'}) 0.0429499415937776
+frozenset({0.0, '20-24'}) 0.025356847773440837
+frozenset({'yesterday:8', '8-12'}) 0.028918202797800507
+frozenset({'yesterday:11', '0~5'}) 0.025100430211686942
+frozenset({'8-12', 'Held By'}) 0.02430268668623038
+frozenset({1.0, 501}) 0.04648280577794239
+frozenset({2.0, 'Late Leaving Garage'}) 0.030955297871734237
+frozenset({8.0, 'Mechanical'}) 0.04122624576198752
+frozenset({'Friday', '4-8'}) 0.04661101455881934
+frozenset({8.0, 'W/B'}) 0.03339126470839625
+frozenset({'15~30', '16-20'}) 0.025385338613635716
+frozenset({'Monday', '4-8'}) 0.04397561184079318
+frozenset({505, '4-8'}) 0.02243653665346591
+frozenset({'Utilized Off Route', '5~15'}) 0.02115444884469643
+frozenset({'yesterday:3', '4-8'}) 0.04691016838086555
+frozenset({'yesterday:6', '4-8'}) 0.0216957748083991
+frozenset({506, '8-12'}) 0.02501495769110231
+frozenset({505, 'yesterday:2'}) 0.028647539815949172
+frozenset({'N/B', 510}) 0.025755719536169123
+frozenset({'yesterday:3', 'Sunday'}) 0.021325393885865695
+frozenset({'S/B', 2.0}) 0.02373286988233283
+frozenset({'E/B', 'yesterday:2'}) 0.10067238382859911
+frozenset({0.0, '4-8'}) 0.02005755149719365
+frozenset({'Investigation', '0~5'}) 0.027636114989031027
+frozenset({506, 'E/B'}) 0.06785093592410041
+frozenset({1.0, 'yesterday:3'}) 0.028063477591954187
+frozenset({'15~30', 'yesterday:3'}) 0.024430895467107326
+frozenset({'yesterday:6', 6.0}) 0.026496481381235934
+frozenset({'W/B', '5~15'}) 0.22784124903843414
+frozenset({'Mechanical', '5~15'}) 0.3001937377133252
+frozenset({1.0, '8-12'}) 0.0369098834724636
+frozenset({'15~30', '8-12'}) 0.024886748910225364
+frozenset({'Thursday', '8-12'}) 0.028205931792928574
+frozenset({504, 'Mechanical'}) 0.08562922020570386
+frozenset({'Friday', 501}) 0.03710931935382775
+frozenset({'W/B', 'yesterday:11'}) 0.03840565258269466
+frozenset({'N/B', '4-8'}) 0.02266446337502493
+frozenset({'20-24', 'E/B'}) 0.04098407362033106
+frozenset({'5~15', 'yesterday:12'}) 0.029260092880139036
+frozenset({504, 'W/B'}) 0.08725319809681187
+frozenset({'>30', 'W/B'}) 0.024744294709250977
+frozenset({'Wednesday', 'W/B'}) 0.061882104903273595
+frozenset({'Wednesday', 'Mechanical'}) 0.07277985127781418
+frozenset({'Mechanical', 11.0}) 0.022408045813271032
+frozenset({'Thursday', '0~5'}) 0.04431750192313171
+frozenset({'W/B', 'Held By'}) 0.04229465226929542
+frozenset({501, '4-8'}) 0.062252485825807
+frozenset({'W/B', 'yesterday:8'}) 0.06004444571070401
+frozenset({'Tuesday', 'E/B'}) 0.06312145645175077
+frozenset({'Monday', '16-20'}) 0.025684492435681928
+frozenset({'Investigation', 'Friday'}) 0.021980683210347872
+frozenset({2.0, 'Investigation'}) 0.04983047950084048
+frozenset({2.0, 'N/B'}) 0.023277016439214794
+frozenset({2.0, 'Friday'}) 0.06024388159206815
+frozenset({3.0, '0~5'}) 0.033904099831904046
+frozenset({'8-12', 'Mechanical'}) 0.0953303512920596
+frozenset({2.0, 'yesterday:2'}) 0.13570187184820082
+frozenset({501, '5~15'}) 0.1729393999829055
+frozenset({'Late Leaving Garage', '4-8'}) 0.08159776631812872
+frozenset({'yesterday:6', '0~5'}) 0.02225134619219921
+frozenset({1.0, '16-20'}) 0.030627653209493146
+frozenset({'W/B', 3.0}) 0.05337758910510271
+frozenset({1.0, 'Investigation'}) 0.02555628365480498
+frozenset({'Monday', '0~5'}) 0.0406279381178951
+frozenset({'yesterday:2', '0~5'}) 0.06300749309097126
+frozenset({'12-16', 'Mechanical'}) 0.10637055186757458
+frozenset({'16-20', 'E/B'}) 0.07045784780193168
+frozenset({'16-20', 'Held By'}) 0.022037664890737628
+frozenset({'Tuesday', 2.0}) 0.053904669648707944
+frozenset({2.0, '8-12'}) 0.06370551867574575
+frozenset({'Investigation', 'E/B'}) 0.055913273882446796
+frozenset({'yesterday:6', 2.0}) 0.034288726174534885
+frozenset({506, '0~5'}) 0.02813470469244138
+frozenset({'E/B', 'Friday'}) 0.060656998774893875
+frozenset({'20-24', 501}) 0.035627795663694124
+frozenset({'16-20', 'yesterday:3'}) 0.0345878799965811
+frozenset({512, '4-8'}) 0.021396620986352886
+frozenset({'Wednesday', '4-8'}) 0.04682469586028092
+frozenset({'Thursday', 506}) 0.0216957748083991
+frozenset({'E/B', '4-8'}) 0.10453289267500498
+frozenset({'Tuesday', 501}) 0.036140630787201915
+frozenset({'5~15', 510}) 0.02447363172739964
+frozenset({'W/B', 'Saturday'}) 0.043434285877090514
+frozenset({0.0, 'yesterday:2'}) 0.036667711330807144
+frozenset({'yesterday:1', '5~15'}) 0.03030000854725206
+frozenset({'yesterday:3', '5~15'}) 0.10773811219692869
+frozenset({'12-16', 'E/B'}) 0.08027294224906692
+frozenset({8.0, 'yesterday:8'}) 0.07003048519900852
+frozenset({'Monday', 1.0}) 0.02555628365480498
+frozenset({'Friday', '5~15'}) 0.08283711786660589
+frozenset({'yesterday:8', 3.0}) 0.024188723325450866
+frozenset({'Thursday', 'Mechanical'}) 0.07736687654918943
+frozenset({1.0, 506}) 0.023875324083307215
+frozenset({'yesterday:3', 'Held By'}) 0.02212313741132226
+frozenset({'S/B', 'Mechanical'}) 0.03619761246759167
+frozenset({'yesterday:6', 'E/B'}) 0.03520043306077096
+frozenset({8.0, '0~5'}) 0.022635972534830053
+frozenset({'12-16', 506}) 0.02760762414883615
+frozenset({'Mechanical', 510}) 0.03136841505455996
+frozenset({'yesterday:3', '20-24'}) 0.02243653665346591
+frozenset({504, 'E/B'}) 0.06668281147611044
+frozenset({'>30', 'E/B'}) 0.02521439357246645
+frozenset({'8-12', 3.0}) 0.02265021795492749
+frozenset({'Tuesday', 3.0}) 0.02039944157953218
+frozenset({'yesterday:3', 3.0}) 0.058491694920083194
+frozenset({'Thursday', 'E/B'}) 0.06270833926892504
+frozenset({'Tuesday', '4-8'}) 0.04702413174164506
+frozenset({12.0, 'yesterday:12'}) 0.021724265648593977
+frozenset({'E/B', 501}) 0.11279523633151942
+frozenset({1.0, 'Held By'}) 0.022137382831419698
+frozenset({'yesterday:3', 506}) 0.02598364625772814
+frozenset({'20-24', 'yesterday:2'}) 0.029829909684036583
+frozenset({505, '12-16'}) 0.025955155417533262
+frozenset({'Tuesday', '12-16'}) 0.03202370437904214
+frozenset({'4-8', 'yesterday:2'}) 0.06124106099888886
+frozenset({'Sunday', 'E/B'}) 0.039858685432633406
+frozenset({2.0, 510}) 0.021966437790250433
+frozenset({'Tuesday', 'yesterday:2'}) 0.03891848770620246
+frozenset({0.0, 501}) 0.02565600159548705
+frozenset({'Thursday', '4-8'}) 0.04619789737599362
+frozenset({'E/B', 'yesterday:12'}) 0.0212541667853785
+frozenset({'Wednesday', 506}) 0.021111712584404113
+frozenset({'20-24', '5~15'}) 0.07028690276076241
+frozenset({'Monday', 'yesterday:8'}) 0.021852474429470924
+frozenset({'Wednesday', 'yesterday:2'}) 0.041041055300720816
+frozenset({504, 'Late Leaving Garage'}) 0.023918060343599532
+frozenset({504, 'Monday'}) 0.02782130545029773
+frozenset({2.0, 501}) 0.08363486139206246
+frozenset({504, 'Tuesday'}) 0.030955297871734237
+frozenset({'5~15', 'yesterday:2'}) 0.13998974329752983
+frozenset({'Mechanical', 'yesterday:11'}) 0.045799025613265335
+frozenset({2.0, 'General Delay'}) 0.02718026154591299
+frozenset({0.0, 'yesterday:1'}) 0.027222997806205306
+frozenset({505, 'E/B'}) 0.04484458246673694
+frozenset({'yesterday:8', 'Mechanical'}) 0.07552921735661984
+frozenset({1.0, '12-16'}) 0.036966865152853357
+frozenset({'15~30', '12-16'}) 0.02501495769110231
+frozenset({'W/B', 'yesterday:3'}) 0.07530129063506083
+frozenset({'yesterday:3', 'Mechanical'}) 0.0904299267785407
+frozenset({501, 'Saturday'}) 0.03262201202313456
+frozenset({'5~15', 511}) 0.03212342231972421
+frozenset({'W/B', '8-12'}) 0.07295079631898345
+frozenset({2.0, 'B/W'}) 0.024074759964671358
+frozenset({'Mechanical', '20-24'}) 0.0462263882161885
+frozenset({'W/B', '20-24'}) 0.040684919798284855
+frozenset({'E/B', 'yesterday:11'}) 0.03450240747599647
+frozenset({'Wednesday', 'E/B'}) 0.060628507934699
+frozenset({504, '16-20'}) 0.034103535713268185
+frozenset({'Thursday', '16-20'}) 0.028832730277215876
+frozenset({504, 'Investigation'}) 0.02350494316077381
+frozenset({'yesterday:3', 2.0}) 0.08937576569133024
+frozenset({505, 2.0}) 0.03844838884298698
+frozenset({'W/B', 'yesterday:2'}) 0.10001709450411693
+frozenset({'Wednesday', 501}) 0.03639704834895581
+frozenset({'Mechanical', 'yesterday:2'}) 0.11996068264053107
+frozenset({'yesterday:11', '4-8'}) 0.02770734208951822
+frozenset({504, '4-8'}) 0.05240890053847688
+frozenset({504, '12-16'}) 0.042365879369782616
+frozenset({'W/B', 501}) 0.11219692868742699
+frozenset({'yesterday:8', '4-8'}) 0.04065642895808998
+frozenset({'Thursday', 'yesterday:2'}) 0.03759366363714066
+frozenset({'Mechanical', 501}) 0.1327815607282259
+frozenset({'8-12', '5~15'}) 0.10793754807829282
+frozenset({'Mechanical', 511}) 0.02598364625772814
+frozenset({'12-16', 'Held By'}) 0.026040627938117896
+frozenset({'12-16', 'yesterday:8'}) 0.03181002307758056
+frozenset({'General Delay', 'yesterday:2'}) 0.021724265648593977
+frozenset({0.0, 'Mechanical'}) 0.04688167754067067
+frozenset({2.0, '5~15'}) 0.18571754181030797
+frozenset({0.0, 'W/B'}) 0.0384198980027921
+frozenset({501, 'yesterday:2'}) 0.06430382631983818
+frozenset({'Saturday', 'yesterday:2'}) 0.024145987065158553
+frozenset({504, '0~5'}) 0.07249494287586541
+frozenset({505, 'yesterday:3'}) 0.021182939684891308
+frozenset({'Mechanical', 'yesterday:1'}) 0.027222997806205306
+frozenset({'16-20', 'Investigation'}) 0.03535713268184279
+frozenset({505, '8-12'}) 0.02393230576369697
+frozenset({'Tuesday', '8-12'}) 0.028975184478190263
+frozenset({'Saturday', '5~15'}) 0.07377703068463488
+frozenset({'W/B', 'yesterday:1'}) 0.021752756488788855
+frozenset({504, 'Thursday'}) 0.033562209749565516
+frozenset({'>30', 'Held By'}) 0.02200917405054275
+frozenset({504, 'Held By'}) 0.0247158038690561
+frozenset({'yesterday:6', 3.0}) 0.021026240063819483
+frozenset({'yesterday:3', '8-12'}) 0.03803527166016126
+frozenset({'Monday', '12-16'}) 0.028647539815949172
+frozenset({0.0, 'E/B'}) 0.040186330094874496
+frozenset({'yesterday:8', 501}) 0.0358414769651557
+frozenset({'Mechanical', '0-4'}) 0.020769822502065587
+frozenset({'yesterday:6', '12-16'}) 0.02061312288099376
+frozenset({'S/B', 511}) 0.02007179691729109
+frozenset({'Wednesday', '16-20'}) 0.02908914783896977
+frozenset({504, 1.0}) 0.03473033419755549
+frozenset({2.0, 'Mechanical'}) 0.16288213339411378
+frozenset({'W/B', 2.0}) 0.13631442491239065
+frozenset({'Thursday', 501}) 0.038305934642012596
+frozenset({512, '5~15'}) 0.03027151770705718
+frozenset({'Tuesday', '16-20'}) 0.02770734208951822
+frozenset({'8-12', 'Investigation'}) 0.028604803555656855
+frozenset({'Thursday', '12-16'}) 0.03306362004615516
+frozenset({'Late Leaving Garage', 'E/B'}) 0.03826319838172028
+frozenset({'yesterday:3', 'Investigation'}) 0.028177440952733696
+frozenset({'Monday', 'E/B'}) 0.05803584147696515
+frozenset({1.0, '0~5'}) 0.04370494885894185
+frozenset({'Held By', 'yesterday:2'}) 0.03037123564773925
+frozenset({'yesterday:3', 501}) 0.048819054673922335
+frozenset({'yesterday:6', 501}) 0.02351918858087125
+frozenset({'8-12', 501}) 0.04369070343884441
+frozenset({512, 'Mechanical'}) 0.03662497507051483
+frozenset({512, 'W/B'}) 0.033448246388786004
+frozenset({'16-20', 506}) 0.025314111513148524
+frozenset({'12-16', 'Investigation'}) 0.03319182882703211
+frozenset({'12-16', 'Sunday'}) 0.024886748910225364
+frozenset({'S/B', 510}) 0.024160232485255992
+frozenset({'Tuesday', 'yesterday:8'}) 0.03296390210547309
+frozenset({'0-4', '5~15'}) 0.029616228382575
+frozenset({'15~30', 501}) 0.02794951423117468
+frozenset({'5~15', 'General Delay'}) 0.035627795663694124
+frozenset({504, 'Wednesday'}) 0.03149662383543691
+frozenset({506, 2.0}) 0.045271945069660105
+frozenset({512, 'E/B'}) 0.033790136471124534
+frozenset({'Tuesday', '0~5'}) 0.04515798170888059
+frozenset({505, '0~5'}) 0.021111712584404113
+frozenset({'Investigation', 501}) 0.03354796432946808
+frozenset({2.0, '20-24'}) 0.02726573406649762
+frozenset({'yesterday:8', '5~15'}) 0.08360637055186758
+frozenset({'Friday', '0~5'}) 0.04336305877660332
+frozenset({'W/B', 'Friday'}) 0.06360580073506368
+frozenset({501, 'yesterday:11'}) 0.02199492863044531
+frozenset({504, '15~30'}) 0.024202968745548305
+frozenset({11.0, '5~15'}) 0.024886748910225364
+frozenset({0.0, '5~15'}) 0.05836348613920624
+frozenset({'12-16', '0~5'}) 0.05082765890766119
+frozenset({'Mechanical', 'Friday'}) 0.0748454371919428
+frozenset({8.0, '4-8'}) 0.03203794979913958
+frozenset({'Mechanical', 'yesterday:12'}) 0.027379697427277132
+frozenset({'4-8', '0~5'}) 0.09145559702555628
+frozenset({2.0, 'Held By'}) 0.03876178808513063
+frozenset({1.0, '20-24'}) 0.02330550727940967
+frozenset({'Wednesday', '12-16'}) 0.0320094589589447
+frozenset({3.0, '5~15'}) 0.07612752500071227
+frozenset({8.0, '5~15'}) 0.0453431721701473
+frozenset({'Tuesday', 1.0}) 0.03048519900851876
+frozenset({'Mechanical', 6.0}) 0.02265021795492749
+frozenset({'B/W', '5~15'}) 0.026140345878799966
+frozenset({'E/B', '0~5'}) 0.09065785350009972
+frozenset({'Monday', 501}) 0.03695261973275592
+frozenset({'15~30', 'yesterday:2'}) 0.03266474828342688
+frozenset({'16-20', 2.0}) 0.07626997920168666
+frozenset({'Monday', 'Investigation'}) 0.020456423259921936
+frozenset({'8-12', 'E/B'}) 0.07305051425966552
+frozenset({504, 3.0}) 0.025769964956266562
+frozenset({512, '0~5'}) 0.03329154676771418
+frozenset({'Sunday', 'yesterday:2'}) 0.028148950112538818
+frozenset({'E/B', 'Held By'}) 0.041710590045300436
+frozenset({'Tuesday', 'yesterday:3'}) 0.02629704549987179
+frozenset({'Monday', 'yesterday:2'}) 0.03571326818427875
+frozenset({'W/B', 'Mechanical'}) 0.19841021111712584
+frozenset({506, '4-8'}) 0.038818769765520386
+frozenset({506, 'Friday'}) 0.022764181315707
+frozenset({'Sunday', 501}) 0.029046411578677454
+frozenset({'Mechanical', '0~5'}) 0.13350807715319524
+frozenset({510, '0~5'}) 0.02985840052423146
+frozenset({504, 'yesterday:8'}) 0.02844810393458503
+frozenset({'15~30', 'Investigation'}) 0.02386107866320978
+frozenset({506, 'yesterday:2'}) 0.033419755548591126
+frozenset({'Tuesday', 506}) 0.02190945610986068
+frozenset({1.0, 'E/B'}) 0.071312573007778
+frozenset({'Held By', 501}) 0.025299866093051085
+frozenset({2.0, '0~5'}) 0.086412718311063
+frozenset({'Late Leaving Garage', '0~5'}) 0.043405795036895636
+frozenset({'Wednesday', '5~15'}) 0.08396250605430354
+frozenset({'Monday', '8-12'}) 0.02878999401692356
+frozenset({'yesterday:3', 'Friday'}) 0.02564175617538961
+frozenset({'8-12', 'yesterday:2'}) 0.04904698139548135
+frozenset({'yesterday:11', '5~15'}) 0.05091313142824582
+frozenset({504, 'General Delay'}) 0.02038519615943474
+frozenset({'Monday', 'yesterday:3'}) 0.028718766916436364
+frozenset({'8-12', 'Friday'}) 0.026012137097923018
+frozenset({505, '16-20'}) 0.02312031681814297
+frozenset({3.0, 501}) 0.033576455169662955
+frozenset({'N/B', '0~5'}) 0.024829767229835608
+frozenset({505, '5~15'}) 0.06817858058634149
+frozenset({'8-12', 'Saturday'}) 0.026881107723866777
+frozenset({'Thursday', 2.0}) 0.052765036040912844
+frozenset({1.0, 'yesterday:1'}) 0.02887546653750819
+frozenset({'15~30', 2.0}) 0.04122624576198752
+frozenset({0.0, '8-12'}) 0.021282657625573378
+frozenset({1.0, 'Friday'}) 0.031567850935924104
+frozenset({'B/W', 'General Delay'}) 0.03619761246759167
+frozenset({2.0, 'Sunday'}) 0.03286418416479102
+frozenset({1.0, '4-8'}) 0.046254879056383376
+frozenset({0.0, '0~5'}) 0.021325393885865695
+frozenset({'12-16', 'Saturday'}) 0.028148950112538818
+frozenset({'16-20', 'yesterday:2'}) 0.04799282030827089
+frozenset({505, 'W/B'}) 0.0461551611157013
+frozenset({'Tuesday', 'Mechanical'}) 0.07768027579133309
+frozenset({505, 'Mechanical'}) 0.04886179093421465
+frozenset({'Tuesday', 'W/B'}) 0.06252314880765834
+frozenset({1.0, '5~15'}) 0.10201145331775834
+frozenset({'15~30', 'General Delay'}) 0.020997749223624605
+frozenset({'W/B', 'yesterday:6'}) 0.03890424228610502
+frozenset({'yesterday:6', 'Mechanical'}) 0.04431750192313171
+frozenset({2.0, '4-8'}) 0.0757713894982763
+frozenset({11.0, 'yesterday:11'}) 0.0303142539673495
+frozenset({'16-20', 501}) 0.042579560671244195
+frozenset({'Sunday', '5~15'}) 0.0684777344083877
+frozenset({'12-16', 2.0}) 0.08513063050229351
+frozenset({'15~30', 'E/B'}) 0.04267927861192627
+frozenset({'S/B', '5~15'}) 0.03455938915638622
+frozenset({'15~30', 'Held By'}) 0.02586968289694863
+frozenset({'Held By', '5~15'}) 0.05682498076868287
+frozenset({'Thursday', '5~15'}) 0.08531582096356022
+frozenset({504, '5~15'}) 0.0809994586740363
+frozenset({'Monday', 'Mechanical'}) 0.07428986580814269
+frozenset({'yesterday:8', 'Friday'}) 0.023134562238240404
+frozenset({'Mechanical', 'Sunday'}) 0.047978574888173454
+frozenset({'yesterday:8', 2.0}) 0.02823442263312345
+frozenset({'Mechanical', 'N/B'}) 0.034944015499017066
+frozenset({'W/B', 'Investigation'}) 0.057950368956380525
+frozenset({1.0, 'W/B'}) 0.07128408216758313
+frozenset({'15~30', 'W/B'}) 0.042223425168808226
+frozenset({'yesterday:6', '5~15'}) 0.05431778683153366
+frozenset({504, 2.0}) 0.0658993133707513
+frozenset({'>30', 2.0}) 0.02586968289694863
+frozenset({2.0, 'yesterday:11'}) 0.020014815236901337
+frozenset({'16-20', 3.0}) 0.028590558135559416
+frozenset({'Wednesday', 2.0}) 0.053918915068805376
+frozenset({8.0, 'E/B'}) 0.03228012194079603
+frozenset({504, '8-12'}) 0.03437419869511952
+frozenset({'Wednesday', 'yesterday:3'}) 0.03480156129804268
+frozenset({3.0, 'E/B'}) 0.054275050571241344
+frozenset({'12-16', '5~15'}) 0.1171685803014331
+frozenset({'yesterday:3', 'E/B'}) 0.0754722356762301
+frozenset({'Wednesday', 3.0}) 0.02329126185931223
+frozenset({'Investigation', 'yesterday:2'}) 0.037650645317530415
+frozenset({'16-20', 'Friday'}) 0.02846234935468247
+frozenset({'E/B', 'yesterday:1'}) 0.0216957748083991
+frozenset({'5~15', '4-8'}) 0.13766773982164734
+frozenset({'5~15', 6.0}) 0.027037807344938602
+frozenset({'yesterday:8', 'E/B'}) 0.05877660332203197
+frozenset({'Friday', 'yesterday:2'}) 0.05198153793555372
+frozenset({'16-20', 'Saturday'}) 0.021182939684891308
+frozenset({'12-16', 'yesterday:2'}) 0.0558420467819596
+frozenset({'Investigation', '5~15'}) 0.06777970882361321
+frozenset({'12-16', 'Friday'}) 0.030912561611441923
+frozenset({'W/B', '0~5'}) 0.1006296475683068
+frozenset({'Thursday', 'yesterday:8'}) 0.02554203823470754
+frozenset({'16-20', '5~15'}) 0.09436166272543377
+==================================================
+frequent 3-itemsets		support
+==================================================
+frozenset({'W/B', 2.0, '4-8'}) 0.032935411265278214
+frozenset({2.0, 'Mechanical', '4-8'}) 0.036340066668566054
+frozenset({3.0, 'W/B', 'Mechanical'}) 0.02639676344055386
+frozenset({'Tuesday', 'W/B', 'Mechanical'}) 0.03232285820108835
+frozenset({'Monday', 2.0, 'Mechanical'}) 0.027336961166984815
+frozenset({'W/B', 2.0, 'yesterday:2'}) 0.05413259637026696
+frozenset({'12-16', 'E/B', 501}) 0.02340522522009174
+frozenset({2.0, 'Mechanical', 'yesterday:2'}) 0.06443203510071512
+frozenset({'W/B', '12-16', '5~15'}) 0.04910396307587111
+frozenset({504, 'Mechanical', '0~5'}) 0.04045699307672583
+frozenset({'12-16', 'E/B', 'yesterday:2'}) 0.021311148465768256
+frozenset({'Investigation', 'E/B', '5~15'}) 0.027735832929713097
+frozenset({1.0, 'W/B', 'yesterday:2'}) 0.03166756887660617
+frozenset({3.0, 'Mechanical', 'E/B'}) 0.02824866805322089
+frozenset({'Tuesday', 2.0, '5~15'}) 0.028547821875267103
+frozenset({2.0, '5~15', 'yesterday:2'}) 0.07302202341947064
+frozenset({'W/B', 'Mechanical', 'Saturday'}) 0.022792672155901878
+frozenset({'Monday', 2.0, '5~15'}) 0.028975184478190263
+frozenset({'Mechanical', 'E/B', '4-8'}) 0.055457420439328754
+frozenset({'Tuesday', 'Mechanical', 501}) 0.020029060656998776
+frozenset({'W/B', 3.0, '5~15'}) 0.031197470013390696
+frozenset({'E/B', 'Mechanical', 'Friday'}) 0.03143964215504715
+frozenset({'Late Leaving Garage', '5~15', '4-8'}) 0.04202398928744409
+frozenset({'8-12', 'Mechanical', 'yesterday:2'}) 0.023789851562722585
+frozenset({2.0, 'Friday', 'yesterday:2'}) 0.026795635203282146
+frozenset({'8-12', 2.0, 'yesterday:3'}) 0.020855295022650218
+frozenset({2.0, 'Saturday', '5~15'}) 0.02126841220547594
+frozenset({'yesterday:3', 'Mechanical', '4-8'}) 0.023063335137753212
+frozenset({1.0, 'Mechanical', 'E/B'}) 0.03756517279694578
+frozenset({'4-8', 2.0, 'yesterday:2'}) 0.030114818085985356
+frozenset({'Mechanical', 'Friday', '4-8'}) 0.02223710077210177
+frozenset({'W/B', 'Friday', '4-8'}) 0.020128778597680846
+frozenset({'Monday', 'E/B', '5~15'}) 0.03316333798683723
+frozenset({1.0, 'Mechanical', 501}) 0.024986466850907434
+frozenset({'8-12', 501, '5~15'}) 0.031111997492806062
+frozenset({'yesterday:3', 501, '5~15'}) 0.03448816205589903
+frozenset({'Mechanical', 'Saturday', '5~15'}) 0.041055300720818255
+frozenset({'0~5', 1.0, 'yesterday:2'}) 0.020214251118265476
+frozenset({'Thursday', 'Mechanical', '0~5'}) 0.02403202370437904
+frozenset({'W/B', 506, '5~15'}) 0.032636257443232
+frozenset({506, 'Mechanical', '5~15'}) 0.0440183481010855
+frozenset({504, 'W/B', 'Mechanical'}) 0.04010085757428986
+frozenset({'Monday', 'W/B', '5~15'}) 0.03319182882703211
+frozenset({'yesterday:3', 'Mechanical', 501}) 0.025684492435681928
+frozenset({'W/B', 'yesterday:3', 501}) 0.02190945610986068
+frozenset({2.0, 501, 'yesterday:2'}) 0.033434000968688565
+frozenset({'Thursday', 2.0, 'W/B'}) 0.02193794695005556
+frozenset({'8-12', 'Mechanical', 501}) 0.02460184050827659
+frozenset({2.0, 'E/B', '0~5'}) 0.03151086925553435
+frozenset({505, 'Mechanical', '5~15'}) 0.03450240747599647
+frozenset({505, 'W/B', '5~15'}) 0.02877574859682612
+frozenset({'Tuesday', 'Mechanical', '5~15'}) 0.04524345422946523
+frozenset({'Tuesday', 'W/B', '5~15'}) 0.03360494600985783
+frozenset({'Thursday', 'Mechanical', '4-8'}) 0.022507763753953105
+frozenset({'Friday', '5~15', '4-8'}) 0.024331177526425253
+frozenset({'12-16', 'Mechanical', '0~5'}) 0.032066440639334455
+frozenset({2.0, '8-12', 'Mechanical'}) 0.03126869711387789
+frozenset({'Mechanical', 'E/B', 'Saturday'}) 0.02361890652155332
+frozenset({'yesterday:3', 'E/B', 501}) 0.02255050001424542
+frozenset({'0~5', 'Mechanical', 'yesterday:2'}) 0.03349098264907832
+frozenset({2.0, 'Late Leaving Garage', '4-8'}) 0.024744294709250977
+frozenset({'W/B', 'Mechanical', '4-8'}) 0.051539929912533124
+frozenset({2.0, 'yesterday:3', '0~5'}) 0.02242229123336847
+frozenset({'8-12', 'E/B', 501}) 0.02148209350693752
+frozenset({'W/B', 'Late Leaving Garage', '4-8'}) 0.039032451066981964
+frozenset({'W/B', 'Sunday', '5~15'}) 0.02802074133166187
+frozenset({'Wednesday', 'Mechanical', 'E/B'}) 0.03037123564773925
+frozenset({'E/B', 501, 'yesterday:2'}) 0.029374056240918545
+frozenset({1.0, 'Mechanical', '5~15'}) 0.05614120060400581
+frozenset({'4-8', 'Late Leaving Garage', '0~5'}) 0.03638280292885837
+frozenset({'Monday', 'W/B', 2.0}) 0.02225134619219921
+frozenset({'Wednesday', 'Mechanical', '0~5'}) 0.022906635516681387
+frozenset({'E/B', 501, '5~15'}) 0.08222456480241602
+frozenset({'Tuesday', '5~15', '4-8'}) 0.023761360722527707
+frozenset({'8-12', 'Mechanical', 'E/B'}) 0.039673494971366706
+frozenset({504, 'W/B', '0~5'}) 0.03896122396649477
+frozenset({'Late Leaving Garage', 'E/B', '4-8'}) 0.032379839881478106
+frozenset({'Mechanical', 'Friday', '5~15'}) 0.04386164848001368
+frozenset({'W/B', 'Friday', '5~15'}) 0.03471608877745805
+frozenset({'W/B', '8-12', '5~15'}) 0.043776175959429044
+frozenset({'W/B', 'Mechanical', 501}) 0.06433231716003306
+frozenset({'yesterday:3', 'Mechanical', '5~15'}) 0.05668252656770848
+frozenset({'W/B', 2.0, 'Wednesday'}) 0.021382375566255447
+frozenset({'W/B', 'yesterday:3', '5~15'}) 0.044103820621670134
+frozenset({'Wednesday', 2.0, 'Mechanical'}) 0.024658822188666343
+frozenset({'Tuesday', 2.0, 'E/B'}) 0.021610302287814468
+frozenset({3.0, 'Mechanical', '5~15'}) 0.04038576597623864
+frozenset({0.0, 'E/B', '5~15'}) 0.024658822188666343
+frozenset({'12-16', '5~15', 'yesterday:2'}) 0.03126869711387789
+frozenset({'Wednesday', 'Mechanical', '4-8'}) 0.021524829767229834
+frozenset({'W/B', 'Wednesday', '4-8'}) 0.020100287757485968
+frozenset({'W/B', 2.0, 'Mechanical'}) 0.06907604205248012
+frozenset({'Mechanical', 'Sunday', 'E/B'}) 0.020670104561383514
+frozenset({'Mechanical', 'yesterday:11', '5~15'}) 0.028804239437020998
+frozenset({'12-16', 501, '5~15'}) 0.03642553918915069
+frozenset({'yesterday:3', 'E/B', '5~15'}) 0.04468788284566512
+frozenset({2.0, 'Mechanical', '0~5'}) 0.047978574888173454
+frozenset({505, 'E/B', '5~15'}) 0.029345565400723667
+frozenset({8.0, 'yesterday:8', 'E/B'}) 0.02749366078805664
+frozenset({3.0, 501, '5~15'}) 0.023704379042137954
+frozenset({'W/B', '16-20', '5~15'}) 0.03910367816746916
+frozenset({'Thursday', 'Mechanical', 'E/B'}) 0.03287842958488846
+frozenset({'16-20', 'Mechanical', '5~15'}) 0.0518248383144819
+frozenset({504, '5~15', 'yesterday:2'}) 0.020370950739337302
+frozenset({1.0, 'W/B', 501}) 0.021353884726060573
+frozenset({'12-16', 'E/B', '5~15'}) 0.04776489358671187
+frozenset({'yesterday:8', '5~15', '4-8'}) 0.021111712584404113
+frozenset({'Tuesday', 2.0, 'yesterday:2'}) 0.020029060656998776
+frozenset({'E/B', 2.0, 'Friday'}) 0.023390979799994303
+frozenset({'16-20', 'Mechanical', 'yesterday:2'}) 0.022635972534830053
+frozenset({'Thursday', 501, '5~15'}) 0.026567708481723126
+frozenset({2.0, 'E/B', '4-8'}) 0.030869825351149606
+frozenset({'Monday', 'Mechanical', '5~15'}) 0.044417219863813785
+frozenset({'W/B', 'Mechanical', 'Wednesday'}) 0.030114818085985356
+frozenset({2.0, 'yesterday:3', '5~15'}) 0.04894726345479928
+frozenset({2.0, 'Friday', '5~15'}) 0.03059916236929827
+frozenset({'Thursday', 2.0, 'Mechanical'}) 0.024587595088179152
+frozenset({'W/B', 'Mechanical', '5~15'}) 0.12812330835636343
+frozenset({'yesterday:3', 3.0, '5~15'}) 0.032921165845180775
+frozenset({8.0, 'yesterday:8', '4-8'}) 0.028148950112538818
+frozenset({'12-16', 2.0, '5~15'}) 0.047650930225932364
+frozenset({2.0, 'Investigation', 'yesterday:2'}) 0.020655859141286075
+frozenset({'4-8', 'E/B', '0~5'}) 0.03287842958488846
+frozenset({504, 'E/B', '5~15'}) 0.028946693637995385
+frozenset({'Thursday', 'W/B', '4-8'}) 0.02028547821875267
+frozenset({'16-20', 'Mechanical', 'E/B'}) 0.03649676628963788
+frozenset({'W/B', 2.0, 'yesterday:3'}) 0.03535713268184279
+frozenset({'Thursday', 'Mechanical', '5~15'}) 0.04549987179121912
+frozenset({2.0, 'Mechanical', 'yesterday:3'}) 0.042394370209977494
+frozenset({8.0, 'yesterday:8', '5~15'}) 0.038320180062110035
+frozenset({'W/B', '8-12', 2.0}) 0.02437391378671757
+frozenset({'16-20', '5~15', 'yesterday:2'}) 0.024174477905353427
+frozenset({2.0, 'Sunday', '5~15'}) 0.021097467164306674
+frozenset({'Mechanical', 'Sunday', '5~15'}) 0.03668195675090458
+frozenset({'Late Leaving Garage', 'E/B', '5~15'}) 0.022308327872588962
+frozenset({'Tuesday', 'Mechanical', '0~5'}) 0.024744294709250977
+frozenset({1.0, 'W/B', '5~15'}) 0.04182455340607995
+frozenset({'Wednesday', '5~15', 'yesterday:2'}) 0.02210889199122482
+frozenset({504, 2.0, '5~15'}) 0.0279210233909798
+frozenset({'16-20', 2.0, 'Mechanical'}) 0.037323000655289325
+frozenset({'yesterday:3', 'Mechanical', 'E/B'}) 0.03787857203908943
+frozenset({'W/B', 2.0, '16-20'}) 0.030570671529103394
+frozenset({8.0, 'W/B', 'yesterday:8'}) 0.02826291347331833
+frozenset({'Wednesday', 501, '5~15'}) 0.0259694008376307
+frozenset({'Wednesday', 2.0, 'yesterday:2'}) 0.021026240063819483
+frozenset({'Thursday', 'Mechanical', 'W/B'}) 0.032052195219237016
+frozenset({'Mechanical', 501, 'yesterday:2'}) 0.03266474828342688
+frozenset({'W/B', 501, 'yesterday:2'}) 0.02911763867916465
+frozenset({'Sunday', 'E/B', '5~15'}) 0.028077723012051626
+frozenset({'Monday', 'Mechanical', 501}) 0.020784067922163026
+frozenset({504, 2.0, 'yesterday:2'}) 0.026610444742015443
+frozenset({'8-12', 'Mechanical', '5~15'}) 0.059859255249437304
+frozenset({'16-20', 2.0, 'yesterday:2'}) 0.03447391663580159
+frozenset({'12-16', 2.0, 501}) 0.021439357246645203
+frozenset({'16-20', 501, '5~15'}) 0.028077723012051626
+frozenset({8.0, 'Mechanical', '5~15'}) 0.024943730590615117
+frozenset({'Monday', 501, '5~15'}) 0.026054873358215335
+frozenset({'Wednesday', 'Mechanical', '5~15'}) 0.043434285877090514
+frozenset({501, '5~15', 'yesterday:2'}) 0.0438331576398188
+frozenset({'5~15', 'W/B', 'Wednesday'}) 0.03434570785492464
+frozenset({'Thursday', 'Mechanical', 501}) 0.020370950739337302
+frozenset({'Friday', 501, '5~15'}) 0.02554203823470754
+frozenset({'W/B', 'yesterday:11', '5~15'}) 0.020698595401578392
+frozenset({'20-24', 'E/B', '5~15'}) 0.026923843984159094
+frozenset({'8-12', 'E/B', '5~15'}) 0.0430211686942648
+frozenset({'12-16', 2.0, 'yesterday:2'}) 0.03544260520242742
+frozenset({'Tuesday', 'W/B', '4-8'}) 0.020214251118265476
+frozenset({2.0, 'Investigation', '5~15'}) 0.024174477905353427
+frozenset({'Tuesday', 'Mechanical', '4-8'}) 0.02360466110145588
+frozenset({'Mechanical', 'E/B', 501}) 0.06456024388159207
+frozenset({'16-20', 2.0, '5~15'}) 0.03940283198951537
+frozenset({'W/B', 2.0, '0~5'}) 0.03569902276418131
+frozenset({501, '5~15', '4-8'}) 0.046767714179891166
+frozenset({'Tuesday', 'E/B', '5~15'}) 0.035271660161258156
+frozenset({'E/B', '5~15', 'yesterday:2'}) 0.05826376819852418
+frozenset({'4-8', 'Mechanical', 'yesterday:2'}) 0.029787173423744265
+frozenset({'4-8', 'W/B', 'yesterday:2'}) 0.02504344853129719
+frozenset({'Monday', 'Mechanical', '4-8'}) 0.021425111826547764
+frozenset({'yesterday:8', 'Mechanical', 'E/B'}) 0.03218040400011396
+frozenset({1.0, '8-12', '5~15'}) 0.020541895780506567
+frozenset({'Mechanical', 'Friday', 'yesterday:2'}) 0.023590415681358442
+frozenset({'W/B', 'Friday', 'yesterday:2'}) 0.021211430525086186
+frozenset({504, 'E/B', '0~5'}) 0.025356847773440837
+frozenset({'Mechanical', 501, '4-8'}) 0.036795920111684095
+frozenset({'Tuesday', 'Mechanical', 'E/B'}) 0.03319182882703211
+frozenset({505, 'Mechanical', 'E/B'}) 0.021838229009373485
+frozenset({'W/B', 501, '4-8'}) 0.03169605971680105
+frozenset({'W/B', 2.0, 'Investigation'}) 0.021097467164306674
+frozenset({'12-16', 'Mechanical', 501}) 0.028376876834097838
+frozenset({'8-12', 2.0, '5~15'}) 0.03491552465882219
+frozenset({'Thursday', 2.0, 'yesterday:2'}) 0.021453602666742642
+frozenset({'16-20', 'E/B', '5~15'}) 0.03931735946893074
+frozenset({506, 'Mechanical', 'E/B'}) 0.03393259067209892
+frozenset({'8-12', 'yesterday:3', '5~15'}) 0.021111712584404113
+frozenset({504, '4-8', '0~5'}) 0.031867004757970316
+frozenset({'E/B', 'Held By', '5~15'}) 0.021781247328983733
+frozenset({1.0, 'Mechanical', '0~5'}) 0.023319752699507108
+frozenset({'Sunday', 501, '5~15'}) 0.020855295022650218
+frozenset({'Mechanical', 'E/B', 'yesterday:2'}) 0.05155417533263056
+frozenset({'W/B', 'Mechanical', 'Friday'}) 0.03126869711387789
+frozenset({'Thursday', 'W/B', '5~15'}) 0.03435995327502208
+frozenset({'Monday', 'W/B', 'Mechanical'}) 0.03082708909085729
+frozenset({1.0, 501, 'yesterday:2'}) 0.02074133166187071
+frozenset({'W/B', 'Held By', '5~15'}) 0.02189521068976324
+frozenset({'Wednesday', 2.0, 'E/B'}) 0.020983503803527166
+frozenset({'Mechanical', 'E/B', '5~15'}) 0.1316134362802359
+frozenset({'8-12', 'Mechanical', '0~5'}) 0.026596199321918004
+frozenset({'16-20', 'Mechanical', 501}) 0.022265591612296645
+frozenset({506, 2.0, 'Mechanical'}) 0.021311148465768256
+frozenset({'W/B', 2.0, '12-16'}) 0.034302971594632324
+frozenset({'yesterday:3', 'Mechanical', '0~5'}) 0.02478703096954329
+frozenset({2.0, 'E/B', '5~15'}) 0.07544374483603522
+frozenset({'W/B', 2.0, 'Friday'}) 0.024516367987691957
+frozenset({2.0, 'Mechanical', 'Friday'}) 0.028519331035072225
+frozenset({'Mechanical', '5~15', '4-8'}) 0.07246645203567054
+frozenset({'Monday', 2.0, 'E/B'}) 0.020256987378557793
+frozenset({'W/B', '5~15', '4-8'}) 0.05683922618878031
+frozenset({'yesterday:8', 501, '5~15'}) 0.02544232029402547
+frozenset({2.0, 'E/B', 'yesterday:2'}) 0.0526368272600359
+frozenset({'E/B', 'Saturday', '5~15'}) 0.029231602039944158
+frozenset({2.0, 501, 'yesterday:3'}) 0.022963617197071143
+frozenset({8.0, 'yesterday:8', 'Mechanical'}) 0.03555656856320693
+frozenset({506, 2.0, 'E/B'}) 0.022265591612296645
+frozenset({'4-8', 'E/B', 'yesterday:2'}) 0.025841192056753753
+frozenset({'W/B', 2.0, '5~15'}) 0.07713894982763042
+frozenset({'yesterday:8', 'Mechanical', '0~5'}) 0.02115444884469643
+frozenset({2.0, 'Mechanical', '5~15'}) 0.09936180517963475
+frozenset({'Friday', '5~15', 'yesterday:2'}) 0.026895353143964216
+frozenset({2.0, 'Mechanical', 'E/B'}) 0.0667825294167925
+frozenset({'Monday', '5~15', '4-8'}) 0.023376734379896864
+frozenset({'4-8', '5~15', 'yesterday:2'}) 0.03250804866235505
+frozenset({506, 2.0, '5~15'}) 0.025769964956266562
+frozenset({504, '12-16', 'Mechanical'}) 0.020171514857973163
+frozenset({3.0, 'E/B', '5~15'}) 0.03166756887660617
+frozenset({'Monday', 2.0, 'yesterday:2'}) 0.020869540442747657
+frozenset({'W/B', 'Investigation', '5~15'}) 0.028619048975754294
+frozenset({'12-16', 'Mechanical', 'yesterday:2'}) 0.02749366078805664
+frozenset({'W/B', 'yesterday:3', 3.0}) 0.022593236274537735
+frozenset({'W/B', 'Mechanical', '0~5'}) 0.0504287871449329
+frozenset({'Wednesday', 2.0, '5~15'}) 0.027792814610102853
+frozenset({506, 'E/B', '5~15'}) 0.04089860109974643
+frozenset({1.0, 'E/B', 501}) 0.02094076754323485
+frozenset({'12-16', 'yesterday:3', '5~15'}) 0.022479272913758227
+frozenset({'W/B', '12-16', 501}) 0.02309182597794809
+frozenset({'Mechanical', '5~15', 'yesterday:2'}) 0.07426137496794781
+frozenset({'W/B', '5~15', 'yesterday:2'}) 0.0567252628280008
+frozenset({3.0, '5~15', '4-8'}) 0.022066155730932506
+frozenset({'W/B', 'Late Leaving Garage', '5~15'}) 0.023918060343599532
+frozenset({501, 'Saturday', '5~15'}) 0.022635972534830053
+frozenset({504, 'W/B', 'yesterday:2'}) 0.02199492863044531
+frozenset({'yesterday:8', 'E/B', '5~15'}) 0.03464486167697085
+frozenset({504, 'Mechanical', 'yesterday:2'}) 0.021624547707911907
+frozenset({'Wednesday', 'E/B', '5~15'}) 0.03465910709706829
+frozenset({'8-12', 2.0, 'E/B'}) 0.023975042023989288
+frozenset({'W/B', '20-24', '5~15'}) 0.027351206587082254
+frozenset({'E/B', 'yesterday:11', '5~15'}) 0.021026240063819483
+frozenset({'20-24', 'Mechanical', '5~15'}) 0.03498675175930938
+frozenset({0.0, 'W/B', '5~15'}) 0.022892390096583948
+frozenset({'4-8', 1.0, 'yesterday:2'}) 0.022892390096583948
+frozenset({0.0, 'Mechanical', '5~15'}) 0.030086327245790478
+frozenset({'4-8', 'W/B', '0~5'}) 0.043234849995726375
+frozenset({2.0, 501, '5~15'}) 0.05805008689706259
+frozenset({504, 'W/B', '5~15'}) 0.03542835978232998
+frozenset({504, 'Mechanical', '5~15'}) 0.03676742927148922
+frozenset({'W/B', 506, 'Mechanical'}) 0.02826291347331833
+frozenset({'yesterday:8', 'Mechanical', '5~15'}) 0.046140915695603864
+frozenset({'0~5', 2.0, 'yesterday:2'}) 0.03453089831619134
+frozenset({1.0, 'E/B', 'yesterday:2'}) 0.03230861278099091
+frozenset({'12-16', 2.0, 'Mechanical'}) 0.04215219806832104
+frozenset({'E/B', 501, '4-8'}) 0.02802074133166187
+frozenset({505, 'W/B', 'Mechanical'}) 0.02199492863044531
+frozenset({'Thursday', 2.0, '5~15'}) 0.027436679107666884
+frozenset({'16-20', 2.0, 'E/B'}) 0.029374056240918545
+frozenset({'W/B', 'yesterday:3', 'Mechanical'}) 0.037821590358699676
+frozenset({'Mechanical', 501, '5~15'}) 0.10580073506367703
+frozenset({'W/B', 501, '5~15'}) 0.08078577737257472
+frozenset({'4-8', 2.0, '0~5'}) 0.027436679107666884
+frozenset({'W/B', '8-12', 'Mechanical'}) 0.0384198980027921
+frozenset({506, 'E/B', '4-8'}) 0.024174477905353427
+frozenset({'12-16', 'Mechanical', '5~15'}) 0.06587082253055643
+frozenset({1.0, 'E/B', '5~15'}) 0.04220917974871079
+frozenset({1.0, 'Mechanical', 'yesterday:2'}) 0.03853386136357161
+frozenset({'8-12', '5~15', 'yesterday:2'}) 0.02652497222143081
+frozenset({505, 2.0, '5~15'}) 0.022963617197071143
+frozenset({'Mechanical', 'E/B', '0~5'}) 0.05148294823214337
+frozenset({504, 2.0, 'Mechanical'}) 0.028975184478190263
+frozenset({504, 'W/B', 2.0}) 0.03092680703153936
+frozenset({'0~5', 'E/B', 'yesterday:2'}) 0.02361890652155332
+frozenset({1.0, 'W/B', 'Mechanical'}) 0.03619761246759167
+frozenset({'yesterday:6', 'Mechanical', '5~15'}) 0.028191686372831135
+frozenset({'5~15', 'W/B', 'yesterday:6'}) 0.02309182597794809
+frozenset({'16-20', 'Mechanical', '0~5'}) 0.025399584033733155
+frozenset({'12-16', 'Mechanical', 'E/B'}) 0.043890139320208556
+frozenset({504, 'W/B', '4-8'}) 0.02985840052423146
+frozenset({'Thursday', 'E/B', '5~15'}) 0.03551383230291461
+frozenset({504, 'Mechanical', '4-8'}) 0.023675888201943076
+frozenset({1.0, '5~15', 'yesterday:2'}) 0.04569930767258326
+frozenset({504, 2.0, 'E/B'}) 0.022935126356876265
+frozenset({1.0, '12-16', '5~15'}) 0.02061312288099376
+frozenset({'yesterday:6', 'E/B', '5~15'}) 0.020883785862845096
+frozenset({'W/B', 'Late Leaving Garage', '0~5'}) 0.023049089717655773
+frozenset({1.0, '5~15', '4-8'}) 0.024957976010712556
+frozenset({504, 'Mechanical', 'E/B'}) 0.034117781133365624
+frozenset({'Thursday', '5~15', '4-8'}) 0.023390979799994303
+frozenset({2.0, 'E/B', 501}) 0.037451209436166276
+frozenset({'W/B', '12-16', 'yesterday:2'}) 0.021880965269665802
+frozenset({'E/B', 'Friday', '5~15'}) 0.034117781133365624
+frozenset({'20-24', 501, '5~15'}) 0.023447961480384055
+frozenset({0.0, 'Mechanical', 'E/B'}) 0.02032821447904499
+frozenset({3.0, 'yesterday:3', 'Mechanical'}) 0.02824866805322089
+frozenset({'12-16', 2.0, 'yesterday:3'}) 0.021368130146158012
+frozenset({'8-12', 2.0, 'yesterday:2'}) 0.021296903045670817
+frozenset({'4-8', '0~5', 'yesterday:2'}) 0.021353884726060573
+frozenset({'E/B', '5~15', '4-8'}) 0.06097039801703752
+frozenset({'Tuesday', 501, '5~15'}) 0.025314111513148524
+frozenset({'W/B', 'Saturday', '5~15'}) 0.029601982962477562
+frozenset({'W/B', 'yesterday:8', 'Mechanical'}) 0.03081284367075985
+frozenset({1.0, 'Mechanical', '4-8'}) 0.023234280178922477
+frozenset({'yesterday:3', '5~15', '4-8'}) 0.02555628365480498
+frozenset({'Tuesday', '5~15', 'yesterday:2'}) 0.02007179691729109
+frozenset({'W/B', 2.0, 501}) 0.03857659762386393
+frozenset({2.0, 'Mechanical', 501}) 0.04406108436137782
+frozenset({'12-16', 2.0, 'E/B'}) 0.03169605971680105
+frozenset({'yesterday:3', 3.0, 'E/B'}) 0.023319752699507108
+frozenset({1.0, 501, '5~15'}) 0.03302088378586285
+frozenset({'W/B', 'Mechanical', '16-20'}) 0.03723752813470469
+frozenset({2.0, 'E/B', 'yesterday:3'}) 0.03511496054018633
+frozenset({'Monday', 'Mechanical', 'E/B'}) 0.03135416963446252
+frozenset({2.0, '5~15', '4-8'}) 0.040200575514971935
+frozenset({504, 2.0, '0~5'}) 0.025271375252856207
+frozenset({'Tuesday', 2.0, 'Mechanical'}) 0.02662469016211288
+frozenset({'Tuesday', 'W/B', 2.0}) 0.021880965269665802
+frozenset({'4-8', 'Mechanical', '0~5'}) 0.04195276218695689
+frozenset({'W/B', 'Mechanical', 'yesterday:2'}) 0.04890452719450697
+frozenset({'0~5', 'W/B', 'yesterday:2'}) 0.02521439357246645
+frozenset({'Monday', 'Mechanical', '0~5'}) 0.02265021795492749
+frozenset({'W/B', '12-16', 'Mechanical'}) 0.045129490868685715
+frozenset({'Mechanical', 'Friday', '0~5'}) 0.023690133622040515
+frozenset({'W/B', 'yesterday:8', '5~15'}) 0.03401806319268355
+frozenset({'Wednesday', '5~15', '4-8'}) 0.02504344853129719
+==================================================
+frequent 4-itemsets		support
+==================================================
+frozenset({2.0, 501, '5~15', 'yesterday:2'}) 0.022635972534830053
+frozenset({'W/B', 'Mechanical', 501, '5~15'}) 0.05097011310863557
+frozenset({'W/B', 2.0, '5~15', 'yesterday:2'}) 0.030143308926180234
+frozenset({'W/B', '8-12', 'Mechanical', '5~15'}) 0.025200148152369012
+frozenset({'Mechanical', 'E/B', '5~15', 'yesterday:2'}) 0.03299239294566797
+frozenset({'12-16', 'Mechanical', 'W/B', '5~15'}) 0.02984415510413402
+frozenset({2.0, 'Mechanical', 'E/B', 501}) 0.0206273683010912
+frozenset({'W/B', 501, '5~15', 'yesterday:2'}) 0.02031396905894755
+frozenset({'16-20', 'Mechanical', 'W/B', '5~15'}) 0.02360466110145588
+frozenset({'yesterday:3', 2.0, 'E/B', '5~15'}) 0.020256987378557793
+frozenset({1.0, 'Mechanical', 501, '5~15'}) 0.02032821447904499
+frozenset({'8-12', 'Mechanical', 'E/B', '5~15'}) 0.025955155417533262
+frozenset({'W/B', 'Mechanical', '5~15', 'yesterday:2'}) 0.03163907803641129
+frozenset({'16-20', 'Mechanical', 'E/B', '5~15'}) 0.022208609931906893
+frozenset({1.0, 'Mechanical', 'W/B', '5~15'}) 0.023918060343599532
+frozenset({'Mechanical', 'E/B', '5~15', '4-8'}) 0.034274480754437446
+frozenset({'yesterday:3', 'Mechanical', 'E/B', '5~15'}) 0.02438815920681501
+frozenset({'W/B', 'yesterday:3', 2.0, '5~15'}) 0.020271232798655232
+frozenset({1.0, 'Mechanical', '5~15', 'yesterday:2'}) 0.024316932106327814
+frozenset({2.0, 'Mechanical', 501, '5~15'}) 0.03484429755833499
+frozenset({'12-16', 2.0, 'W/B', '5~15'}) 0.020670104561383514
+frozenset({'E/B', 501, '5~15', 'yesterday:2'}) 0.021097467164306674
+frozenset({'12-16', 2.0, 'Mechanical', '5~15'}) 0.02621157297928716
+frozenset({'Thursday', 'Mechanical', 'E/B', '5~15'}) 0.020356705319239863
+frozenset({'W/B', 501, '5~15', '4-8'}) 0.02353343400096869
+frozenset({'Mechanical', 501, '5~15', 'yesterday:2'}) 0.025599019915097297
+frozenset({'W/B', 'Mechanical', '5~15', '4-8'}) 0.029274338300236475
+frozenset({'W/B', 'yesterday:3', 'Mechanical', '5~15'}) 0.024658822188666343
+frozenset({'E/B', 501, '5~15', '4-8'}) 0.021966437790250433
+frozenset({'16-20', 2.0, 'Mechanical', '5~15'}) 0.021368130146158012
+frozenset({2.0, 'E/B', 501, '5~15'}) 0.02718026154591299
+frozenset({'W/B', 2.0, 'Mechanical', '5~15'}) 0.04406108436137782
+frozenset({'W/B', 2.0, 'Mechanical', 'yesterday:2'}) 0.02718026154591299
+frozenset({2.0, 'Mechanical', '5~15', 'yesterday:2'}) 0.03927462320863842
+frozenset({'W/B', 2.0, 501, '5~15'}) 0.027322715746887376
+frozenset({'Mechanical', 'E/B', 501, '5~15'}) 0.05179634747428702
+frozenset({2.0, 'Mechanical', 'E/B', 'yesterday:2'}) 0.02673865352289239
+frozenset({'yesterday:8', 'Mechanical', 'E/B', '5~15'}) 0.02061312288099376
+frozenset({8.0, 'yesterday:8', 'Mechanical', '5~15'}) 0.0212541667853785
+frozenset({'12-16', 'Mechanical', 501, '5~15'}) 0.023034844297558334
+frozenset({2.0, 'E/B', '5~15', 'yesterday:2'}) 0.03027151770705718
+frozenset({'12-16', 'Mechanical', 'E/B', '5~15'}) 0.02823442263312345
+frozenset({506, 'Mechanical', 'E/B', '5~15'}) 0.02284965383629163
+frozenset({'W/B', 2.0, 'Mechanical', 501}) 0.022094646571127384
+frozenset({'yesterday:3', 2.0, '5~15', 'Mechanical'}) 0.02588392831704607
+frozenset({2.0, 'Mechanical', '5~15', '4-8'}) 0.020883785862845096
+frozenset({'Mechanical', 501, '5~15', '4-8'}) 0.029374056240918545
+frozenset({'yesterday:3', 'Mechanical', 501, '5~15'}) 0.020769822502065587
+frozenset({1.0, 'Mechanical', 'E/B', '5~15'}) 0.024986466850907434
+frozenset({2.0, 'Mechanical', 'E/B', '5~15'}) 0.042038234707541526
+==================================================
+Null
+==================================================
+Null
+
+Process finished with exit code 0
